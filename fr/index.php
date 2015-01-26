@@ -1,4 +1,4 @@
-<?php include 'sendEmail.php'; ?>
+?php include 'sendEmail.php'; ?>
 <!DOCTYPE html>
 <html lang="fr">
   <head>
