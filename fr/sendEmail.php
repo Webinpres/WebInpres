@@ -1,4 +1,4 @@
-?php
+<?php
 if(isset($_POST) && !empty($_POST))
 {
     $regmail = "#^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$#";
